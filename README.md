@@ -1,4 +1,4 @@
-# ML202 Final Assignment
+# ML202 Final Assignment- MadaBoost
 
 This project is the final assignment of the course ML202 in Ben Gurion University.
 
